@@ -1,8 +1,8 @@
 # SOLIDBankApp
 
 ## Как запустить:
-  * Скачать SOLIDBankApp
-  * Запустить SolidBankAppDemoApplication.java из SOLIDBankApp-main.zip\SOLIDBankApp-main\src\main\java\kz\jusan\demo при помощи IntelliJ IDEA Ultimate.
+  * Загрузить SOLIDBankApp в виде архива.
+  * Распаковать и запустить SolidBankAppDemoApplication.java из SOLIDBankApp-main.zip\SOLIDBankApp-main\src\main\java\kz\jusan\demo при помощи IntelliJ IDEA Ultimate.
 
 ## Основные функции:
   К основным операциям, выполняемым пользователем со счетами в данной версии относятся:
